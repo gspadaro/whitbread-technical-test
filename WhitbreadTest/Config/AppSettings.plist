@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeploymentEnvironment</key>
+	<string>Development</string>
+	<key>FoursquareClientId</key>
+	<dict>
+		<key>Development</key>
+		<string>FYSEEUNQJVWDIA1NRO1LT5C3UX0WQUG3XLFRJU4XQ32ASZZW</string>
+		<key>Production</key>
+		<string>FYSEEUNQJVWDIA1NRO1LT5C3UX0WQUG3XLFRJU4XQ32ASZZW</string>
+	</dict>
+	<key>FoursquareClientSecret</key>
+	<dict>
+		<key>Development</key>
+		<string>FI5ZVTC3AWBWCB3CU142CXL1KDXWGIJGVR51GPPJECBFHF1K</string>
+		<key>Production</key>
+		<string>FI5ZVTC3AWBWCB3CU142CXL1KDXWGIJGVR51GPPJECBFHF1K</string>
+	</dict>
+	<key>FoursquareAPIBaseUrl</key>
+	<dict>
+		<key>Development</key>
+		<string>https://api.foursquare.com/v2/</string>
+		<key>Production</key>
+		<string>https://api.foursquare.com/v2/</string>
+	</dict>
+	<key>FoursquareAPIVersion</key>
+	<dict>
+		<key>Development</key>
+		<string>20160329</string>
+		<key>Production</key>
+		<string>20160329</string>
+	</dict>
+</dict>
+</plist>

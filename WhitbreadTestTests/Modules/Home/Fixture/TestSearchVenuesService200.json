@@ -1,0 +1,201 @@
+{
+  "meta":{
+    "code":200,
+    "requestId":"56f99f38498e536d3e1b6794"
+  },
+  "response":{
+    "venues":[
+              {
+              "id":"4b9a4eb0f964a5202bab35e3",
+              "name":"St Martin-in-the-Fields",
+              "contact":{
+              "phone":"+442077661100",
+              "formattedPhone":"+44 20 7766 1100"
+              },
+              "location":{
+              "address":"5 Trafalgar Square",
+              "lat":51.50880255694975,
+              "lng":-0.12686848640441895,
+              "postalCode":"WC2N 4JJ",
+              "cc":"GB",
+              "city":"Londra",
+              "state":"Greater London",
+              "country":"Regno Unito",
+              "formattedAddress":[
+                                  "5 Trafalgar Square",
+                                  "Londra",
+                                  "Greater London",
+                                  "WC2N 4JJ",
+                                  "Regno Unito"
+                                  ]
+              },
+              "categories":[
+                            {
+                            "id":"4bf58dd8d48988d132941735",
+                            "name":"Chiesa",
+                            "pluralName":"Chiese",
+                            "shortName":"Chiesa",
+                            "icon":{
+                            "prefix":"https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                            "suffix":".png"
+                            },
+                            "primary":true
+                            }
+                            ],
+              "verified":false,
+              "stats":{
+              "checkinsCount":3643,
+              "usersCount":2754,
+              "tipCount":31
+              },
+              "url":"http://www.smitf.org",
+              "hasMenu":true,
+              "menu":{
+              "type":"Services",
+              "label":"Servizi",
+              "anchor":"Visualizza i Servizi",
+              "url":"https://foursquare.com/v/st-martininthefields/4b9a4eb0f964a5202bab35e3/menu",
+              "mobileUrl":"https://foursquare.com/v/4b9a4eb0f964a5202bab35e3/device_menu"
+              },
+              "specials":{
+              "count":0,
+              "items":[
+              
+              ]
+              },
+              "hereNow":{
+              "count":1,
+              "summary":"Un'altra persona è qui",
+              "groups":[
+                        {
+                        "type":"others",
+                        "name":"Altre persone qui",
+                        "count":1,
+                        "items":[
+                        
+                        ]
+                        }
+                        ]
+              },
+              "referralId":"v-1459199800",
+              "venueChains":[
+              
+              ]
+              },
+              {
+              "id":"4baa57e6f964a5202b613ae3",
+              "name":"Halfway 2 Heaven",
+              "contact":{
+              "phone":"+442074840736",
+              "formattedPhone":"+44 20 7484 0736",
+              "twitter":"halfway2_heaven"
+              },
+              "location":{
+              "address":"7 Duncannon St",
+              "lat":51.508576,
+              "lng":-0.126436,
+              "postalCode":"WC2N 4JF",
+              "cc":"GB",
+              "city":"Charing Cross",
+              "state":"Greater London",
+              "country":"Regno Unito",
+              "formattedAddress":[
+                                  "7 Duncannon St",
+                                  "Charing Cross",
+                                  "Greater London",
+                                  "WC2N 4JF",
+                                  "Regno Unito"
+                                  ]
+              },
+              "categories":[
+                            {
+                            "id":"4bf58dd8d48988d1d8941735",
+                            "name":"Bar per gay",
+                            "pluralName":"Bar per gay",
+                            "shortName":"Bar per gay",
+                            "icon":{
+                            "prefix":"https://ss3.4sqi.net/img/categories_v2/nightlife/gaybar_",
+                            "suffix":".png"
+                            },
+                            "primary":true
+                            }
+                            ],
+              "verified":false,
+              "stats":{
+              "checkinsCount":1928,
+              "usersCount":833,
+              "tipCount":22
+              },
+              "url":"http://www.halfway2heaven.net",
+              "hasMenu":true,
+              "menu":{
+              "type":"Menu",
+              "label":"Menu",
+              "anchor":"Mostra menu",
+              "url":"https://foursquare.com/v/halfway-2-heaven/4baa57e6f964a5202b613ae3/menu",
+              "mobileUrl":"https://foursquare.com/v/4baa57e6f964a5202b613ae3/device_menu"
+              },
+              "allowMenuUrlEdit":true,
+              "specials":{
+              "count":0,
+              "items":[
+              
+              ]
+              },
+              "hereNow":{
+              "count":1,
+              "summary":"Un'altra persona è qui",
+              "groups":[
+                        {
+                        "type":"others",
+                        "name":"Altre persone qui",
+                        "count":1,
+                        "items":[
+                        
+                        ]
+                        }
+                        ]
+              },
+              "referralId":"v-1459199800",
+              "venueChains":[
+              
+              ]
+              }
+              ],
+    "confident":false,
+    "geocode":{
+      "what":"",
+      "where":"london",
+      "feature":{
+        "cc":"GB",
+        "name":"Londra",
+        "displayName":"Londra, Greater London, United Kingdom",
+        "matchedName":"London, Greater London, United Kingdom",
+        "highlightedName":"<b>London</b>, Greater London, United Kingdom",
+        "woeType":7,
+        "slug":"london",
+        "id":"geonameid:2643743",
+        "longId":"72057594040571679",
+        "geometry":{  
+          "center":{  
+            "lat":51.50853,
+            "lng":-0.12574
+          },
+          "bounds":{  
+            "ne":{  
+              "lat":51.691643999655895,
+              "lng":0.33418999705203406
+            },
+            "sw":{  
+              "lat":51.28467404417054,
+              "lng":-0.5085579279369435
+            }
+          }
+        }
+      },
+      "parents":[  
+      
+      ]
+    }
+  }
+}

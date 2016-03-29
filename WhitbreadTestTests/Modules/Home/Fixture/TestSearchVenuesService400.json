@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "code": 400,
+    "errorType": "param_error",
+    "errorDetail": "Must provide parameter ll or userll or near",
+    "requestId": "56f9a46b498e5fd67a1bb61f"
+  },
+  "response": {}
+}
